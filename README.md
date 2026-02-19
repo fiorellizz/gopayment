@@ -85,7 +85,7 @@ Isso simula **backpressure real de sistemas distribuídos**.
 
 ------------------------------------------------------------------------
 
-## 2️⃣ Worker Pool
+## Worker Pool
 
 Criamos múltiplas goroutines consumindo da mesma fila:
 
@@ -107,7 +107,7 @@ Quando vários workers consomem o mesmo channel, temos concorrência real.
 
 ------------------------------------------------------------------------
 
-## 3️⃣ Logger Estruturado
+## Logger Estruturado
 
 Usamos `log/slog` (Go 1.21+):
 
