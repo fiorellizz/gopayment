@@ -132,6 +132,10 @@ Isso é padrão de produção.
 
 # Como Executar
 
+## Clonar o módulo
+
+    git clone https://github.com/fiorellizz/gopayment.git
+
 ## Criar o módulo
 
 Na raiz:
